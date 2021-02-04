@@ -1,0 +1,4 @@
+baseURL = "https://specacurawoodgui.vercel.app"
+languageCode = "en-us"
+title = "Acura TL Specs"
+theme = "hugo-theme-minos"
